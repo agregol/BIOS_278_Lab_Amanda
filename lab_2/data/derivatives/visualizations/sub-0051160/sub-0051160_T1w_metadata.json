@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T16:01:52.512719",
+  "subject": "0051160",
+  "modality": "T1w",
+  "files_processed": [
+    "data\\sub-0051160\\anat\\sub-0051160_T1w.nii.gz"
+  ],
+  "software_versions": {
+    "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "nibabel": "5.2.0",
+    "nilearn": "0.10.3"
+  }
+}
